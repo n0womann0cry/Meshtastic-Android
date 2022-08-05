@@ -67,7 +67,7 @@ class MapFragment : ScreenFragment("Map"), Logging {
      * Set this variable to true to enable offline maps
      */
     //___________________________________________________
-    private val offlineEnabled = false
+    private val offlineEnabled = true
     //___________________________________________________
 
 
